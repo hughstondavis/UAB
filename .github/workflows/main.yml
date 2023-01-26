@@ -1,9 +1,0 @@
-- name: Simple SFTP
-  # You may pin to the exact commit or the version.
-  # uses: Atyn/simple-sftp-action@a684a17fdd2b79d23101d568d9e8b5070f58e685
-  uses: Atyn/simple-sftp-action@0.0.2
-  with:
-    # URL to the SFTP server. Example: sftp://USERNAME:PASSWORD@example.com/remote-directory
-    url: # optional
-    # The directory that should be uploaded
-    localdir: # optional
